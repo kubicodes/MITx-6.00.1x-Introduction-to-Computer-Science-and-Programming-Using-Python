@@ -10,7 +10,7 @@ I will share my own solutions for the problem sets given for each chapter every 
 <br>
 <a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/master/Problem_Set_1/problem_3_longest_substring.py">Problem 3: Longest Substring</a>
 
-## Week 2: Simple Programs
+## Week 2: Simple Programs - Problem Set 2
 <a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/master/Problem_Set_2/problem_1_paying_debt_off_in_a_year.py">Problem 1: Paying debt off in a year</a>
 <br>
 <a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/master/Problem_Set_2/problem_2_paying_debt_off_in_a_year.py">Problem 2: Paying Debt Off in a Year (Min fixed monthly payment)</a>
