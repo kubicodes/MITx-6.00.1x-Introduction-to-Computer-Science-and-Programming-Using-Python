@@ -2,3 +2,18 @@
 My solutions for the problem sets given in the edx course <a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-7">MITx: 6.00.1x Introduction to Computer Science and Programming Using Python</a> wich started on Aug 26, 2020 <br>
 <br>
 I will share my own solutions for the problem sets given for each chapter every week.
+
+## Week 1: Python Basics - Problem Set 1
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/master/Problem_Set_1/problem_1_number_of_vowels.py">Problem 1: Number of vowels</a>
+<br>
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/master/Problem_Set_1/problem_2_occurence_in_string.py">Problem 2: Occurence in String</a>
+<br>
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/master/Problem_Set_1/problem_3_longest_substring.py">Problem 3: Longest Substring</a>
+
+## Week 2: Simple Programs
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/master/Problem_Set_2/problem_1_paying_debt_off_in_a_year.py">Problem 1: Paying debt off in a year</a>
+<br>
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/master/Problem_Set_2/problem_2_paying_debt_off_in_a_year.py">Problem 2: Paying Debt Off in a Year (Min fixed monthly payment)</a>
+<br>
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/master/Problem_Set_1/problem_3_longest_substring.py">Problem 3: Using Bisection Search to Make the Program Faster</a>
+<br>
