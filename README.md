@@ -23,3 +23,5 @@ I will share my own solutions for the problem sets given for each chapter every 
 <br>
 <a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/3dec549e2a2f20fe8a95a8474c594fc476ce04bc/Problem_Set_3/ps3_hangman.py#L59">Problem 2: Getting the User's Guess</a>
 <br>
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/3fc9c13bce4332b7fa4e514eecdb62c5486c7721/Problem_Set_3/ps3_hangman.py#L82">Problem 3: Problem 3: Printing Out all Available Letters</a>
+<br>
