@@ -75,9 +75,6 @@ def getGuessedWord(secretWord, lettersGuessed):
     guessedSoFarToString = ''.join(guessedSoFar)
 
     return guessedSoFarToString
-    
-
-
 
 def getAvailableLetters(lettersGuessed):
     '''
@@ -94,7 +91,6 @@ def getAvailableLetters(lettersGuessed):
     availableLettersToString = ''.join(availableLetters)
     
     return availableLettersToString
-    
 
 def hangman(secretWord):
     '''
@@ -117,7 +113,41 @@ def hangman(secretWord):
     Follows the other limitations detailed in the problem write-up.
     '''
     # FILL IN YOUR CODE HERE...
+    print("Welcome to the game, Hangman!")
+    print("I am thinking of a word that is", str(len(secretWord)) , "letters long.")
+    print("-----------")
+    remaininguesses = 8
+    lettersGuessed = []
 
+    while remaininguesses >0:
+
+        print("You have", remaininguesses, "guesses left.")
+    
+        print("Available letters:", getAvailableLetters(lettersGuessed))
+    
+        currentGuessedLetter = input("Please guess a letter:").lower()
+        
+        if currentGuessedLetter in lettersGuessed:
+            print("Oops! You've already guessed that letter:", getGuessedWord(secretWord, lettersGuessed))
+        else:
+            lettersGuessed.append(currentGuessedLetter)
+            if currentGuessedLetter in secretWord:
+                print("Good guess:", getGuessedWord(secretWord, lettersGuessed))
+                print("-----------")
+            else:
+                print("Oops! That letter is not in my word: ", getGuessedWord(secretWord, lettersGuessed))
+                print("-----------")
+                remaininguesses -= 1
+                
+        #won the game
+        if isWordGuessed(secretWord, lettersGuessed) == True:
+            print("Congratulations, you won!")
+            break
+                
+        #lost the game
+        if remaininguesses == 0:
+            print("Sorry, you ran out of guesses. The word was" , secretWord.lower())
+    
 
 
 
