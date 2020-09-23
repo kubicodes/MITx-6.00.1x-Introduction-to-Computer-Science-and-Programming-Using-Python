@@ -17,3 +17,9 @@ I will share my own solutions for the problem sets given for each chapter every 
 <br>
 <a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/master/Problem_Set_1/problem_3_longest_substring.py">Problem 3: Using Bisection Search to Make the Program Faster</a>
 <br>
+
+## Week 3: Structured Types - Problem Set 3
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/3dec549e2a2f20fe8a95a8474c594fc476ce04bc/Problem_Set_3/ps3_hangman.py#L46">Problem 1: Is the Word Guessed</a>
+<br>
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/3dec549e2a2f20fe8a95a8474c594fc476ce04bc/Problem_Set_3/ps3_hangman.py#L59">Problem 2: Getting the User's Guess</a>
+<br>
