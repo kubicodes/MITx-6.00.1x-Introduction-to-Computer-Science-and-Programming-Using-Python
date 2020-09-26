@@ -179,9 +179,24 @@ def isValidWord(word, hand, wordList):
     hand: dictionary (string -> int)
     wordList: list of lowercase strings
     """
-    # TO DO ... <-- Remove this comment when you code this function
+    
+    array_from_hand = []
+    for key,value in hand.items():
+        array_from_hand += key*value
 
-
+    isWordInHand = True
+    
+    for char in word:
+        if char in array_from_hand:
+            array_from_hand.remove(char)
+        elif char not in array_from_hand:
+            isWordInHand = False
+    
+    if word in wordList and isWordInHand == True:
+        return True
+    else:
+        return False
+    
 #
 # Problem #4: Playing a hand
 #
