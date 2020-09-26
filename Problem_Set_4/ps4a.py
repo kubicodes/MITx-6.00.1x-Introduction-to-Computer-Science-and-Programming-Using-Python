@@ -151,8 +151,18 @@ def updateHand(hand, word):
     hand: dictionary (string -> int)    
     returns: dictionary (string -> int)
     """
-    # TO DO ... <-- Remove this comment when you code this function
-
+    assert not word in hand, ('Your hand has not all letters in the word.')
+    
+    new_hand = hand.copy()
+    
+    for key,value in new_hand.items():
+        if key in word:
+            new_hand[key] -= word.count(key)
+        else:
+            continue
+    
+    return new_hand
+        
 
 
 #
