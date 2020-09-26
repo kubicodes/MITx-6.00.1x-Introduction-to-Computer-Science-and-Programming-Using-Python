@@ -27,3 +27,11 @@ I will share my own solutions for the problem sets given for each chapter every 
 <br>
 <a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/a7b98c4e04b072e8c621390bef48ba208b322972/Problem_Set_3/ps3_hangman.py#L95">Problem 4: Problem 4: The Game</a>
 <br>
+
+## Week 4: Good Programming Practices - Problem Set 4
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/04f8577d686500ffa1dc8df835b1e37a8daab80f/Problem_Set_4/ps4a.py#L59">Problem 1: Word Scores</a>
+<br>
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/04f8577d686500ffa1dc8df835b1e37a8daab80f/Problem_Set_4/ps4a.py#L138">Problem 2 - Dealing with Hands</a>
+<br>
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/04f8577d686500ffa1dc8df835b1e37a8daab80f/Problem_Set_4/ps4a.py#L171">Problem 3 - Valid Words</a>
+<br>
