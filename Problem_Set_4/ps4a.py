@@ -208,7 +208,16 @@ def calculateHandlen(hand):
     hand: dictionary (string-> int)
     returns: integer
     """
-    # TO DO... <-- Remove this comment when you code this function
+    assert not type(hand) == dict, 'Not a dictionary'
+    
+    array_from_hand = []
+    for key,value in hand.items():
+        array_from_hand += key*value
+    
+    len_of_hand = len(array_from_hand)
+    
+    return len_of_hand
+    
 
 
 
