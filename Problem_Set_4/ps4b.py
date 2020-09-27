@@ -124,9 +124,58 @@ def playGame(wordList):
 
     wordList: list (string)
     """
-    # TO DO... <-- Remove this comment when you code this function
-    print("playGame not yet implemented.") # <-- Remove this when you code this function
+    game_played = False
+    current_hand = {}  
+    valid_user_inputs_beginning = ['n','r','e']
+    valid_user_inputs_playing = ['c', 'u']
+    
+    while True:
+        user_input = input("Enter n to deal a new hand, r to replay the last hand, or e to end game:").lower()
+        
+        if user_input == "r" and game_played == False:
+            print("You have not played a hand yet. Please play a new hand first!")
+            continue
+        
+        else:
+            game_played = True
 
+            if user_input == "n":
+                while True:
+                    user_input = input("Enter u to have yourself play, c to have the computer play:").lower() 
+                
+                    if user_input == "u":
+                        current_hand = dealHand(HAND_SIZE)
+                        playHand(current_hand, wordList, HAND_SIZE)
+                        break
+                    elif user_input == "c":
+                        current_hand = dealHand(HAND_SIZE)
+                        compPlayHand(current_hand, wordList, HAND_SIZE)
+                        break
+                    else:
+                        print("Invalid Command.")
+                    
+                    
+            elif user_input == "r":
+                
+                while True:
+                    user_input = input("Enter u to have yourself play, c to have the computer play:").lower()
+                
+                    if user_input == "u":
+                        playHand(current_hand, wordList, HAND_SIZE)
+                        break
+                    elif user_input == "c":
+                        compPlayHand(current_hand, wordList, HAND_SIZE)
+                        break
+                    else:
+                        print("Invalid Command.")
+                    
+            elif user_input == "e":
+                break
+            
+            else:
+                print("Invalid Command.")
+
+            
         
 #
 # Build data structures used for entire session and play game
