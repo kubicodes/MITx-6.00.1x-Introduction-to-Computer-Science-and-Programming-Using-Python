@@ -42,3 +42,5 @@ I will share my own solutions for the problem sets given for each chapter every 
 <br>
 <a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/0d5f39a8fd707e1ab082b7eec975d858f229c572/Problem_Set_4/ps4a.py#L289">Problem 6: Playing a Game</a>
 <br>
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/master/Problem_Set_4/ps4b.py">Problem 7: You and your Computer</a>
+<br>
