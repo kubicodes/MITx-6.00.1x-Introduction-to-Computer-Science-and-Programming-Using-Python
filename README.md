@@ -31,7 +31,14 @@ I will share my own solutions for the problem sets given for each chapter every 
 ## Week 4: Good Programming Practices - Problem Set 4
 <a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/04f8577d686500ffa1dc8df835b1e37a8daab80f/Problem_Set_4/ps4a.py#L59">Problem 1: Word Scores</a>
 <br>
-<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/04f8577d686500ffa1dc8df835b1e37a8daab80f/Problem_Set_4/ps4a.py#L138">Problem 2 - Dealing with Hands</a>
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/04f8577d686500ffa1dc8df835b1e37a8daab80f/Problem_Set_4/ps4a.py#L138">Problem 2: Dealing with Hands</a>
 <br>
-<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/04f8577d686500ffa1dc8df835b1e37a8daab80f/Problem_Set_4/ps4a.py#L171">Problem 3 - Valid Words</a>
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/04f8577d686500ffa1dc8df835b1e37a8daab80f/Problem_Set_4/ps4a.py#L171">Problem 3: Valid Words</a>
+<br>
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/0d5f39a8fd707e1ab082b7eec975d858f229c572/Problem_Set_4/ps4a.py#L204">Problem 4: Hand Length
+</a>
+<br>
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/0d5f39a8fd707e1ab082b7eec975d858f229c572/Problem_Set_4/ps4a.py#L220">Problem 5: Playing a Hand</a>
+<br>
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/0d5f39a8fd707e1ab082b7eec975d858f229c572/Problem_Set_4/ps4a.py#L289">Problem 6: Playing a Game</a>
 <br>
