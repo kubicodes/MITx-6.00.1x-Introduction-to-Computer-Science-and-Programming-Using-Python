@@ -44,3 +44,10 @@ I will share my own solutions for the problem sets given for each chapter every 
 <br>
 <a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/master/Problem_Set_4/ps4b.py">Problem 7: You and your Computer</a>
 <br>
+
+## Week 5: Object Oriented Programming
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/b98fc18844e66b220a1c27172febacebb5229e58/Problem_Set_5/ps6.py#L58">Problem 1: Build the Shift Dictionary and Apply Shift</a>
+<br>
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/b98fc18844e66b220a1c27172febacebb5229e58/Problem_Set_5/ps6.py#L148">Problem 2: PlaintextMessage</a>
+<br>
+
