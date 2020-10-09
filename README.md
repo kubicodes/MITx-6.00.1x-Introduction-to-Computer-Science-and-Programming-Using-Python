@@ -50,4 +50,7 @@ I will share my own solutions for the problem sets given for each chapter every 
 <br>
 <a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/b98fc18844e66b220a1c27172febacebb5229e58/Problem_Set_5/ps6.py#L148">Problem 2: PlaintextMessage</a>
 <br>
-
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/8e8686d90a362c675a75e7c89a9fce61b0c7b105/Problem_Set_5/ps6.py#L214">Problem 3: CiphertextMessage</a>
+<br>
+<a href="https://github.com/kubicodes/MITx-6.00.1x-Introduction-to-Computer-Science-and-Programming-Using-Python/blob/8e8686d90a362c675a75e7c89a9fce61b0c7b105/Problem_Set_5/ps6.py#L258">Problem 4: Decrypt a Story</a>
+<br>
